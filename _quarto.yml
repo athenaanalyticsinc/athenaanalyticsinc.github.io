@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: "Athena Analytics Incorporated"
+  navbar:
+    background: "#020005"
+    foreground: "#ebe8c6" 
+    pinned: false
+    collapse: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - contact.qmd
+      - linkedin.qmd
+      - calendly.qmd
+
+      
+format:
+  html:
+    theme: darkly
+    smooth-scroll: true
+    fontsize: 1.25rem
+    linkcolor: "#fbf4b5"
+    
+    css: custom.css
+    toc: true
+
+editor: visual

@@ -1,0 +1,9 @@
+---
+title: "Thank you for visiting the Athena landing page."
+---
+
+Athena Analytics is a data analytics services business specializing in data analysis using popular tools such as R and Python.
+
+We specialize in business app development in areas including but not limited to: Finance, Economics, Financial Trading, Research, data parsing, automation of data processes, and data bounty fulfillment.   
+
+Please visit the Contact, LinkedIn, or Calendly sections if you would like to get in touch. We look forward to connecting with you.
